@@ -1,0 +1,6 @@
+{
+  "name": "DroidUtility Pro",
+  "description": "High-fidelity android calculator and gaming utility with real-time API monitoring metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
